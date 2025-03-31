@@ -1,5 +1,5 @@
 ---
-- name: Deploy Web App
+- name:  Deploy Web App
   hosts: n3
   become: yes
 
