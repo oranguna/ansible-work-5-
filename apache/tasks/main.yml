@@ -1,2 +1,4 @@
 ---
 # tasks file for apache
+_import_tasks: install.yml
+_import_tasks: config.yml
